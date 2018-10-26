@@ -26,6 +26,7 @@
 		<td> ${tempStudent.getFirst_name()}</td>
 		<td> ${tempStudent.getLast_name()}</td>
 		<td> ${tempStudent.getEmail()}</td>
+	<tr>
 </c:forEach>
 
 </table>
